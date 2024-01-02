@@ -1,4 +1,4 @@
-# migrate-to-diku-external
+# migrate-to-diku-forum
 Welcome to the public discussion forum for the Migrate to DIKU service! This repository is specifically designed for the purpose of collecting feature requests. If you're interested in the Migrate to DIKU service, please reach out to Sales@aimpointdigital.com for more information.
 
 ## Feature Requests
