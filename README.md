@@ -20,7 +20,6 @@ To ensure effective communication and collaboration, please adhere to the follow
 - Be respectful and constructive in your discussions.
 - Clearly articulate the problem or need your feature request aims to address.
 - Provide any relevant context or use cases that can help others understand the importance of the feature.
-- If possible, suggest potential implementation ideas or alternatives.
 
 ### What Happens Next?
 
